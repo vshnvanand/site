@@ -6,7 +6,7 @@ const Header = () => {
       <div>
           <button className="text-2xl font-semibold hover:text-white ">Vaishnav Anand</button>
       </div>
-      <div className="flex gap-8">
+      <div className="flex gap-7">
           <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">About Me</button>
           <button className="hover:text-white font-medium">Experience</button>
           <button className="hover:text-white font-medium">Projects</button>
