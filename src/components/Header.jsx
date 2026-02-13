@@ -8,11 +8,11 @@ const Header = () => {
       </div>
       <div className="flex gap-7">
           <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">About Me</button>
-          <button className="hover:text-white font-medium">Experience</button>
-          <button className="hover:text-white font-medium">Projects</button>
-          <button className="hover:text-white font-medium">Contact</button>
-          <button className="hover:text-white font-medium">Switch</button>
-          <button className="font-medium cursor-pointer rounded-full px-4 py-1 hover:text-yellow-300">Download CV</button>
+          <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">Experience</button>
+          <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">Projects</button>
+          <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">Contact</button>
+          <button className="relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:-bottom-1 after:h-0.5 after:w-0 after:bg-white after:duration-300 hover:text-white hover:after:w-full">Switch</button>
+          <button className=" relative font-medium h-fullafter:content-[''] after:absolute after:left-0 after:h-full  after:w-0 after:bg-yellow-300 after:duration-500 after:rounded-full hover:after:absolute:text-black  hover:after:w-full cursor-pointer rounded-full px-4 py-1">Download CV</button>
       </div>
 
     </div>
